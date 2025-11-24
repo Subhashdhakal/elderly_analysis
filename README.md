@@ -1,5 +1,4 @@
 # Elderly Vulnerability Analysis – Nepal (Census 2021)
-# Elderly Vulnerability Analysis – Nepal (Census 2021)
 
 This repository contains the full workflow, analysis scripts, datasets, and interactive visualizations used in the project:
 
